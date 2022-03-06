@@ -7,34 +7,39 @@ The purpose of this analysis is to use loan data in combination with supervised 
 The accuracy score, precision score, and recall score for each model is listed below:
 
 **Naive Random Oversampling Model**
--Accuracy Score: 0.6214
--Precision Score: 0.0093
--Sensitivity: 0.5269
+
+* Accuracy Score: 0.6214
+* Precision Score: 0.0093
+* Sensitivity: 0.5269
 
 **SMOTE Oversampling Model**
--Accuracy Score: 0.6382
--Precision Score: 0.0097
--Sensitivity: 0.5731
+
+* Accuracy Score: 0.6382
+* Precision Score: 0.0097
+* Sensitivity: 0.5731
 
 **Undersampling Model**
--Accuracy Score: 0.5450
--Precision Score: 0.0061
--Sensitivity: 0.5269
+
+* Accuracy Score: 0.5450
+* Precision Score: 0.0061
+* Sensitivity: 0.5269
 
 **Combination sampling Model**
--Accuracy Score: 0.6400
--Precision Score: 0.0086
--Sensitivity: 0.6769
+
+  * Accuracy Score: 0.6400
+  * Precision Score: 0.0086
+  * Sensitivity: 0.6769
 
 **Balanced Random Forest Model**
--Accuracy Score: 0.8621
--Precision Score: 0.0231
--Sensitivity: 0.7905
+  * Accuracy Score: 0.8621
+  * Precision Score: 0.0231
+  * Sensitivity: 0.7905
 
 **Easy Ensemble AdaBoost Model**
--Accuracy Score: 0.8813
--Precision Score: 0.0333
--Sensitivity: 0.8038
+
+* Accuracy Score: 0.8813
+* Precision Score: 0.0333
+* Sensitivity: 0.8038
 
 
 ## Summary
