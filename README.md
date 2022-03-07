@@ -1,4 +1,4 @@
-# Predictiong-Credit-Card-Risk
+# Predicting-Credit-Card-Risk
 
 ## Overview
 The purpose of this analysis is to use loan data in combination with supervised machine learning with imblearn and sklearn python libraries to predict whether a loan would be considered 'high-risk' or 'low-risk' based on multiple other variables for each loan applicant. For this analysis, we tried multiple different sampling techniques to see which ones yielded the highest accuracy based on accuracy scores and confusion matrices. Lastly, we tried repeating our supervised machine learning using ensemble learning models and then evaluating them using the same methods as before.
